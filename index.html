@@ -11,12 +11,17 @@
         <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap"
             rel="stylesheet" />
-        <title>Super Mário Bros - O Filme</title>
+        <title>Super Mário Bros - O Filme</title> <!-- É aqui onde vai ficar aquele titulo que tem em todos os sites -->
     </head>
     <body>
-        <div class="fundo-video">
-            <video class="video" autoplay loop muted>
-                <source src="src/video/video-mario .mp4" type="video/mp4">
+        <div class="fundo-video"> <!-- Nesse projeto haverá um video rodando no fundo do site, entao deve haver uma div para ser colocado o video -->
+            <video class="video" autoplay loop muted> <!-- A tag video é bem autodescritiva -->
+                <!-- Como nas outras tags a tag video tbm tem atributos, tais como:
+                    autoplay -- inicia o video automaticamnete assim que a pagina é carregada
+                    loop -- que significa que esse video vai ficar em looping ele nunca vai acabar
+                    muted -- que significa que esse video será mutado(sem som)
+                -->
+                <source src="src/video/video-mario .mp4" type="video/mp4"> <!-- na tag source vai ser passado o caminho do video -->
             </video>
         </div>
 
@@ -34,7 +39,7 @@
             </nav>
         </header>
         <main class="container"> <!-- Normalmente a tag main é usada para designar o conteúdo principal do site -->
-            <div class="info">
+            <div class="info"> <!-- Uma div é muito usada para colocar conteúdo, nao importa qual o conteúdo -->
                 <img class="title-image" src="src/img/titulo.png" alt="imagem do
                     título do filme">
                 <p class="description">Lorem ipsum dolor sit amet consectetur
