@@ -1,1 +1,9 @@
 Dando a Base do HTML
+
+Criando um projeto de um site sobre o mario responsivo
+
+Porque começar pelo HTML?
+HTMl é uma linguagem de Marcaçao, Hypertext Market Language
+o HTML é usado para fzer a base d um site
+para montar um site com HTML se usam tag's
+tag --> <h1>
