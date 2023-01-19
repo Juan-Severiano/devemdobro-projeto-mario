@@ -1,0 +1,46 @@
+LIVE 01
+
+    Dando a Base do HTML
+    
+    Criando um projeto de um site sobre o mario responsivo
+    
+    Porque começar pelo HTML?
+    HTMl é uma linguagem de Marcaçao, Hypertext Market Language
+    o HTML é usado para fzer a base d um site
+    para montar um site com HTML se usam tag's
+    tag --> <h1>
+    
+    tudo comentado no arquivo HTML
+
+AULA 02
+
+    Tipos de Desenvolvimentos:
+        Dev de Jogos
+        Dev de App
+        Dev de web
+        Realidade virtual
+        Inteligencia Artificial
+
+    Subareas do Desenvolvimento web
+        Frontend -- 
+            Parte visual
+        Backend -- ]
+            Bastidores
+        Fullstack -- 
+            back e front juntos
+
+    Desenvolvimento Web Programador Fullstack
+        Marco 01 
+            HTML & CSS
+        Marco 02
+            JavaScript
+        Marco 03 
+            ReactJS e TypeScript
+        Marco 04
+            Inicio do Backend
+
+
+PALAVRA DA AULA 01: 2023
+PALAVRA DA AULA 02: EMPREGO
+PALAVRA DA AULA 03: 
+PALAVRA DA AULA 04: 
